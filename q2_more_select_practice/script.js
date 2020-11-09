@@ -10,7 +10,11 @@ let header2 = document.querySelector('h2');
 let highlight = document.querySelector('.highlight');
 
 // Q3 - select the first <span class="highlight"> in the document
+<<<<<<< HEAD
 let spanHighlight = document.querySelector('span.highlight');
+=======
+let spanHighlight = document.querySelector('span.highlight')
+>>>>>>> upstream/main
 
 // Q4 - select the first element that has the class 'finished'
 let finished= document.querySelector('.finished');
@@ -19,7 +23,11 @@ let finished= document.querySelector('.finished');
 let firstParagraph=document.querySelector('p');
 
 // Q6 - select the first <p class="emphasis"> in the document
+<<<<<<< HEAD
 let emphasisParagraph=document.querySelector('p.emphasis');
+=======
+let emphasisParagraph=document.querySelector('p.emphasis')
+>>>>>>> upstream/main
 
 // LEAVE THE BELOW ALONE! DON'T TOUCH
 try {
